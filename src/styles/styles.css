@@ -1,0 +1,9 @@
+/*Define the colors of the palette*/
+:root {
+  --principal: #222831;
+  --second: #393E46;
+  --third: #FFD369;
+  --fourth: #EEEEEE;
+  --black: #131313;
+  --white: #f8f0f0;
+}
